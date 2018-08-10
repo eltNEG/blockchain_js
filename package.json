@@ -1,0 +1,11 @@
+{
+  "name": "blockchain_js",
+  "version": "1.0.0",
+  "description": "Blockchain demo in js, ported from golang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eltneg",
+  "license": "ISC"
+}
